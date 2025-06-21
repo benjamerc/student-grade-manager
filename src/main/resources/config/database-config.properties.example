@@ -1,0 +1,4 @@
+# database.properties.example
+db.url=
+db.user=
+db.password=
